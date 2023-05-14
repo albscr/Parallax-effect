@@ -3,7 +3,8 @@
 <i>The Parallax effect is a web design technique in which different layers of images or elements move at different speeds as the user scrolls down the page. The result is a sense of depth and three-dimensionality on the page.</i>
 
 ## Overview 
-<img width="1470" alt="image" src="https://user-images.githubusercontent.com/108294869/233849927-53e60623-f9b3-40bd-a283-4b4e864cf78b.png">
+<img width="1463" alt="image" src="https://github.com/albscr/Parallax-effect/assets/108294869/ee166b00-4d79-4d7b-bb5e-f5a0054c7817">
+
 
 ## How I did it...
 <ul>
